@@ -111,6 +111,15 @@ When I’m not coding, I’m probably thinking about how to make my next interfa
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ## 📈 Contribution Graph
 
 <p align="center">
