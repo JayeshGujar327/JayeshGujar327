@@ -6,47 +6,45 @@
   </a>
 </p>
 
-
 ---
 
 ### 🌟 **About Me**
 
-Hey there! 👋
-I'm a **Full-Stack Developer** who turns ideas into interactive, meaningful digital experiences.
-My tech journey started with the fundamentals of **C programming**, and today I work confidently across modern tools and frameworks to craft **dynamic, responsive, and user-friendly web applications**.
+Hey there! 👋  
+I'm a **Full-Stack Developer** who transforms ideas into **interactive, meaningful digital experiences**.  
+My journey began with the fundamentals of **C programming**, and today I confidently work across modern tools and frameworks to craft **dynamic, responsive, and user-friendly web applications**.
 
-I believe great software isn’t just built — it’s **designed with purpose, curiosity, and passion**.
+I believe great software isn’t just built —  
+it’s **designed with purpose, curiosity, and passion**.
 
 ---
 
 ### 🚀 What I’m Up To
 
-* 🔭 **Building** exciting real-world web projects
-* 🌱 **Constantly learning** new technologies & sharpening my skills
-* 👯 **Open to collaboration** on open-source projects & creative ideas
+* 🔭 **Building** exciting real-world web projects  
+* 🌱 **Continuously learning** new technologies & refining my skills  
+* 👯 **Open to collaboration** on open-source projects & creative ideas  
 * 💡 **Focused on clean code + beautiful UI**
 
 ---
 
 ### 🧠 Tech Mindset
 
-I love:
+I genuinely love:
 
-* Solving problems 🧩
-* Exploring new technologies 🔍
-* Creating smooth user experiences ✨
-* Writing code that feels good to read and use 💻
+* Solving problems 🧩  
+* Exploring new technologies 🔍  
+* Designing smooth user experiences ✨  
+* Writing code that feels good to read and even better to use 💻  
 
 ---
 
 ### ⚡ Fun Fact
 
-When I’m not coding, I’m probably thinking about how to make my next interface **more beautiful and more intuitive**😄
+When I’m not coding, I’m probably thinking about how to make my next interface  
+**more beautiful, more intuitive, and more impactful** 😄
 
 ---
-
-
-
 
 ## 🛠️ Tech Arsenal
 
@@ -93,7 +91,6 @@ When I’m not coding, I’m probably thinking about how to make my next interfa
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="32"/>
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -119,5 +116,3 @@ When I’m not coding, I’m probably thinking about how to make my next interfa
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&radius=12" />
 </p>
-
-
