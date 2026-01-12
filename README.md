@@ -38,12 +38,19 @@ I genuinely love:
 * Writing code that feels good to read and even better to use 💻  
 
 ---
-<details>
-<summary><b>🎯 My 2026 Goals</b></summary>
+### 🎯 Goals for 2026
 
-- Master Full Stack  
-- Contribute to open source  
-- Launch SaaS product  
+<details>
+<summary><b>🚀 Click to explore my mission for 2026</b></summary>
+
+- 🧠 **Master Java Programming** — achieve strong command over core Java, OOP, data structures, and advanced concepts  
+- 🌐 **Become an Expert in Web Development** — build high-performance, scalable, and modern web applications  
+- 💼 **Establish Myself as a Freelancer** — successfully deploy and deliver multiple real-world client projects  
+- 🧪 **Continuously Learn & Experiment** — stay ahead by exploring new tools, frameworks, and best practices  
+- 🤖 **Learn & Implement AI in Projects** — integrate intelligent features into web applications using modern AI technologies  
+
+</details>
+
 
 </details>
 
