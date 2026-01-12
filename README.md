@@ -47,32 +47,52 @@ When I’m not coding, I’m probably thinking about how to make my next interfa
 
 
 
-## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## ⚡ Core Skills (Visual Cards)
+
+### 💻 Programming
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=plastic&logo=c%2B%2B&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" height="34"/>
+</p>
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-00c7ff?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="36"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="26"/>
+</p>
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="34"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="30"/>
+</p>
 
 ### 🛢️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" height="34"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" height="30"/>
+</p>
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="32"/>
+</p>
+
 
 ---
 
