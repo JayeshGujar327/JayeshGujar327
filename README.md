@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jayesh Gujar</h1>
-<h3 align="center">Tech Explorer | Web Developer</h3>
+<h1 align="center">Hi 👋, I'm JayeshGujar</h1>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Tech+Explorer;Web+Developer;Problem+Solver;Always+Learning" />
+  </a>
+</p>
+
 
 ---
 
