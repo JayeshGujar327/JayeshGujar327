@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jayesh</h1>
+<h3 align="center">Tech Explorer | Web Developer</h3>
 
-<!--
-**JayeshGujar327/JayeshGujar327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✨ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about Web Development & Software Engineering  
+- 🌱 Currently learning Full-Stack Development  
+- 🤝 Looking to collaborate on exciting open-source projects  
+- 🚀 Always curious about new technologies  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+C • C++ • Java • JavaScript  
+
+**Frontend:**  
+HTML • CSS • React • Bootstrap  
+
+**Backend:**  
+Node.js • Express.js  
+
+**Database:**  
+MongoDB • MySQL  
+
+**Tools:**  
+Git • GitHub • VS Code  
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: _coming soon_  
+- Portfolio: _coming soon_
+
