@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JayeshGujar</h1>
+<h1 align="center">Hi 🤝, I'm JayeshGujar</h1>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
@@ -8,7 +8,7 @@
 
 ---
 
-### 🌟 **About Me**
+### 🧭 **About Me**
 
 Hey there! 👋  
 I'm a **Full-Stack Developer** who transforms ideas into **interactive, meaningful digital experiences**.  
@@ -19,7 +19,7 @@ it’s **designed with purpose, curiosity, and passion**.
 
 ---
 
-### 🚀 What I’m Up To
+### 🛸 What I’m Up To
 
 * 🔭 **Building** exciting real-world web projects  
 * 🌱 **Continuously learning** new technologies & refining my skills  
@@ -28,7 +28,7 @@ it’s **designed with purpose, curiosity, and passion**.
 
 ---
 
-### 🧠 Tech Mindset
+### 🧩 Tech Mindset
 
 I genuinely love:
 
@@ -38,7 +38,8 @@ I genuinely love:
 * Writing code that feels good to read and even better to use 💻  
 
 ---
-### 🎯 Goals for 2026
+
+### 🧱 Goals for 2026
 
 <details>
 <summary><b>🚀 Click to explore my mission for 2026</b></summary>
@@ -51,12 +52,9 @@ I genuinely love:
 
 </details>
 
-
-</details>
-
 ---
 
-## ⚡ Fun Facts
+## 🌈 Fun Facts
 
 <details>
   <summary><b>👉 Click to read more</b></summary>
@@ -68,10 +66,9 @@ I genuinely love:
 
 </details>
 
-
 ---
 
-## 🛠️ Tech Arsenal
+## ⚙️ Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
@@ -79,9 +76,9 @@ I genuinely love:
 
 ---
 
-## ⚡ Core Skills (Visual Cards)
+## 🔥 Core Skills (Visual Cards)
 
-### 💻 Programming
+### 🖥️ Programming
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/C++-004482?style=plastic&logo=c%2B%2B&logoColor=white" height="32"/>
@@ -89,7 +86,7 @@ I genuinely love:
   <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" height="34"/>
 </p>
 
-### 🎨 Frontend
+### 🧬 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="28"/>
@@ -97,19 +94,19 @@ I genuinely love:
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="26"/>
 </p>
 
-### ⚙️ Backend
+### 🧪 Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="34"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="30"/>
 </p>
 
-### 🛢️ Database
+### 🗄️ Database
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" height="34"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" height="30"/>
 </p>
 
-### 🧰 Tools & Platforms
+### 🧯 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
@@ -118,7 +115,7 @@ I genuinely love:
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
@@ -128,7 +125,7 @@ I genuinely love:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🥇 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15&row=1" />
@@ -136,16 +133,15 @@ I genuinely love:
 
 ---
 
----
-
-## 🐍 Contribution Snake
+## 🧬 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
 
-## 📈 Contribution Graph
+## 🛰️ Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&radius=12" />
@@ -153,7 +149,7 @@ I genuinely love:
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayesh-gujar-943626315/" target="_blank">
@@ -170,6 +166,4 @@ I genuinely love:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&center=true&vCenter=true&width=420&lines=Let's+build+something+amazing+together;Always+open+for+collaboration;Turning+ideas+into+impact" />
-</p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&center=true&vCenter=true&width=420&lines=Let's+build+something+amazing+together;Always+open+for+collaboration
