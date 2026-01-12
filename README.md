@@ -45,7 +45,7 @@ When I’m not coding, I’m probably thinking about how to make my next interfa
 
 ---
 
-## 🛠️ Tech Stack
+
 
 ## 🛠️ Tech Stack
 
@@ -73,3 +73,14 @@ When I’m not coding, I’m probably thinking about how to make my next interfa
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
