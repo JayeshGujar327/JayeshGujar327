@@ -47,25 +47,29 @@ When I’m not coding, I’m probably thinking about how to make my next interfa
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-C • C++ • Java • JavaScript  
+## 🛠️ Tech Stack
 
-**Frontend:**  
-HTML • CSS • React • Bootstrap  
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-**Backend:**  
-Node.js • Express.js  
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-00c7ff?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 
-**Database:**  
-MongoDB • MySQL  
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 
-**Tools:**  
-Git • GitHub • VS Code  
+### 🛢️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
----
-
-## 📫 Let's Connect
-
-- LinkedIn: _coming soon_  
-- Portfolio: _coming soon_
-
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
