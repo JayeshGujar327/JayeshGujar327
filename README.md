@@ -125,3 +125,26 @@ When I’m not coding, I’m probably thinking about how to make my next interfa
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&radius=12" />
 </p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayesh-gujar-943626315/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jayesh%20Gujar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/thejayesh327" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@thejayesh327-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://yourportfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&center=true&vCenter=true&width=420&lines=Let's+build+something+amazing+together;Always+open+for+collaboration;Turning+ideas+into+impact" />
+</p>
+
