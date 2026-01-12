@@ -35,7 +35,7 @@ I love:
 
 ### ⚡ Fun Fact
 
-When I’m not coding, I’m probably thinking about how to make my next interface **more beautiful and more intuitive😄
+When I’m not coding, I’m probably thinking about how to make my next interface **more beautiful and more intuitive**😄
 
 ---
 
