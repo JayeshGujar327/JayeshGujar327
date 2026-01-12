@@ -39,10 +39,20 @@ I genuinely love:
 
 ---
 
-### ⚡ Fun Fact
+---
 
-When I’m not coding, I’m probably thinking about how to make my next interface  
-**more beautiful, more intuitive, and more impactful** 😄
+## ⚡ Fun Facts
+
+<details>
+  <summary><b>👉 Click to read more</b></summary>
+  <br>
+
+  - 💙 Passionate about creating **beautiful & user-friendly** web interfaces  
+  - 🧪 Always experimenting with **new frameworks & libraries** to stay ahead  
+  - 📚 Strong believer in **continuous learning & knowledge sharing**
+
+</details>
+
 
 ---
 
