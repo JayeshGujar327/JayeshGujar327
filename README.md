@@ -1,14 +1,47 @@
-<h1 align="center">Hi 👋, I'm Jayesh</h1>
+<h1 align="center">Hi 👋, I'm Jayesh Gujar</h1>
 <h3 align="center">Tech Explorer | Web Developer</h3>
 
 ---
 
-## ✨ About Me
+Love this — this is *exactly* the kind of bio that makes a GitHub profile feel **alive** and professional 💙
+Here’s your upgraded, more aesthetic, impressive, and interactive version 👇
+*(same skills, better presentation)*
 
-- 💻 Passionate about Web Development & Software Engineering  
-- 🌱 Currently learning Full-Stack Development  
-- 🤝 Looking to collaborate on exciting open-source projects  
-- 🚀 Always curious about new technologies  
+---
+
+### 🌟 **About Me**
+
+Hey there! 👋
+I'm a **Full-Stack Developer** who turns ideas into interactive, meaningful digital experiences.
+My tech journey started with the fundamentals of **C programming**, and today I work confidently across modern tools and frameworks to craft **dynamic, responsive, and user-friendly web applications**.
+
+I believe great software isn’t just built — it’s **designed with purpose, curiosity, and passion**.
+
+---
+
+### 🚀 What I’m Up To
+
+* 🔭 **Building** exciting real-world web projects
+* 🌱 **Constantly learning** new technologies & sharpening my skills
+* 👯 **Open to collaboration** on open-source projects & creative ideas
+* 💡 **Focused on clean code + beautiful UI**
+
+---
+
+### 🧠 Tech Mindset
+
+I love:
+
+* Solving problems 🧩
+* Exploring new technologies 🔍
+* Creating smooth user experiences ✨
+* Writing code that feels good to read and use 💻
+
+---
+
+### ⚡ Fun Fact
+
+When I’m not coding, I’m probably thinking about how to make my next interface **more beautiful and more intuitive😄
 
 ---
 
