@@ -3,12 +3,6 @@
 
 ---
 
-Love this — this is *exactly* the kind of bio that makes a GitHub profile feel **alive** and professional 💙
-Here’s your upgraded, more aesthetic, impressive, and interactive version 👇
-*(same skills, better presentation)*
-
----
-
 ### 🌟 **About Me**
 
 Hey there! 👋
