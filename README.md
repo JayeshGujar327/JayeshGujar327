@@ -38,6 +38,14 @@ I genuinely love:
 * Writing code that feels good to read and even better to use 💻  
 
 ---
+<details>
+<summary><b>🎯 My 2026 Goals</b></summary>
+
+- Master Full Stack  
+- Contribute to open source  
+- Launch SaaS product  
+
+</details>
 
 ---
 
