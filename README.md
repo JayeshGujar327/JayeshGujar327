@@ -1,27 +1,29 @@
-
 <div align="center">
 
 # JAYESH GUJAR
 
-### Java Full Stack Developer · React · Spring Boot · AI
+### `Java Full Stack Developer` · `React` · `Spring Boot` · `AI`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=680&lines=Building+modern+full-stack+experiences;React+%2B+JavaScript+%2B+Spring+Boot;REST+APIs+%7C+MySQL+%7C+MongoDB;AI-assisted+applications+%7C+creative+interfaces;Build+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Jayesh Gujar">
 
 <br>
 
-<a href="https://github.com/jayeshgujar327">
+<a href="https://github.com/jayeshgujar327" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24" alt="GitHub">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/jayesh-gujar-943626315/">
+
+<a href="https://www.linkedin.com/in/jayesh-gujar-943626315/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn">
 </a>
 &nbsp;
-<a href="https://www.instagram.com/thejayesh327/">
+
+<a href="https://www.instagram.com/thejayesh327/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="24" alt="Instagram">
 </a>
 &nbsp;
-<a href="https://thejayeshport1.netlify.app/">
+
+<a href="https://thejayeshport1.netlify.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" height="24" alt="Portfolio">
 </a>
 
@@ -35,7 +37,7 @@
 
 # `01` · ABOUT
 
-<table>
+<table width="100%">
 <tr>
 <td width="62%" valign="top">
 
@@ -103,7 +105,7 @@ I learn by **building real projects**, not only by studying technologies theoret
 
 ### PERSONAL DEVELOPER PORTFOLIO
 
-<a href="https://thejayeshport1.netlify.app/">
+<a href="https://thejayeshport1.netlify.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/VIEW%20LIVE%20PORTFOLIO-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="Portfolio">
 </a>
 
@@ -120,13 +122,13 @@ Personal developer portfolio showcasing **skills, projects, technologies, develo
 
 ### Highlights
 
-- Personal developer branding
-- Interactive portfolio
-- Project showcase
-- Responsive interface
-- Animated UI
-- Technology showcase
-- Live deployment
+* Personal developer branding
+* Interactive portfolio
+* Project showcase
+* Responsive interface
+* Animated UI
+* Technology showcase
+* Live deployment
 
 ### Stack
 
@@ -140,7 +142,7 @@ Personal developer portfolio showcasing **skills, projects, technologies, develo
 
 ### THE INDIAN HIP-HOP UNIVERSE
 
-<a href="https://jayeshgujar327.github.io/gullyverse/">
+<a href="https://jayeshgujar327.github.io/gullyverse/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GullyVerse">
 </a>
 
@@ -156,12 +158,12 @@ An immersive Indian hip-hop experience built around **artists, music, culture an
 
 ### Highlights
 
-- Artist-focused universe
-- Music-oriented experience
-- Dark visual identity
-- Interactive animations
-- Responsive interface
-- Interactive navigation
+* Artist-focused universe
+* Music-oriented experience
+* Dark visual identity
+* Interactive animations
+* Responsive interface
+* Interactive navigation
 
 ### Stack
 
@@ -175,7 +177,7 @@ An immersive Indian hip-hop experience built around **artists, music, culture an
 
 ### THE ERA OF KOHLI
 
-<a href="https://jayeshgujar327.github.io/EIGHTEEN-the-era-of-kohli/">
+<a href="https://jayeshgujar327.github.io/EIGHTEEN-the-era-of-kohli/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" height="28" alt="EIGHTEEN">
 </a>
 
@@ -191,13 +193,13 @@ A cinematic tribute experience around **Virat Kohli's journey, achievements, mem
 
 ### Highlights
 
-- Video-driven hero
-- Career statistics
-- Achievements
-- Sound interaction
-- Scroll reveals
-- Interactive game mode
-- Responsive design
+* Video-driven hero
+* Career statistics
+* Achievements
+* Sound interaction
+* Scroll reveals
+* Interactive game mode
+* Responsive design
 
 ### Stack
 
@@ -211,7 +213,7 @@ A cinematic tribute experience around **Virat Kohli's journey, achievements, mem
 
 ### MODERN DIGITAL EXPERIENCE
 
-<a href="https://nexora327.netlify.app/">
+<a href="https://nexora327.netlify.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-00A98F?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="Nexora">
 </a>
 
@@ -227,11 +229,11 @@ Modern web experience focused on **clean UI, reusable components, responsive lay
 
 ### Highlights
 
-- Component-based UI
-- Responsive design
-- Interactive sections
-- Reusable components
-- User-focused experience
+* Component-based UI
+* Responsive design
+* Interactive sections
+* Reusable components
+* User-focused experience
 
 ### Stack
 
@@ -245,7 +247,7 @@ Modern web experience focused on **clean UI, reusable components, responsive lay
 
 ### MOVIE & ENTERTAINMENT EXPERIENCE
 
-<a href="https://jcinevault.netlify.app/">
+<a href="https://jcinevault.netlify.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-E50914?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="J CineVault">
 </a>
 
@@ -261,11 +263,11 @@ Cinematic entertainment experience designed around **movies, discovery and visua
 
 ### Highlights
 
-- Movie discovery
-- Cinematic interface
-- Interactive sections
-- Responsive layout
-- Visual storytelling
+* Movie discovery
+* Cinematic interface
+* Interactive sections
+* Responsive layout
+* Visual storytelling
 
 ### Stack
 
@@ -294,7 +296,7 @@ Spring Boot
 Database
    ↓
 AI Services
-````
+```
 
 ### Workflow
 
@@ -332,7 +334,9 @@ Full-stack job portal covering recruiter and applicant workflows.
 
 ### Stack
 
-`React` `Bootstrap` `Node.js` `Express.js` `MongoDB` `MySQL` `JWT`
+`React` `Bootstrap` `Node.js` `Express.js`
+
+`MongoDB` `MySQL` `JWT`
 
 ### Includes
 
@@ -468,14 +472,18 @@ Collaboration
 
 <br>
 
-| Frontend   | Backend        | Database      | Engineering     |
-| ---------- | -------------- | ------------- | --------------- |
-| React      | Java           | MySQL         | REST APIs       |
-| JavaScript | Spring Boot    | MongoDB       | JWT             |
-| HTML / CSS | Node.js        | SQL           | Git / GitHub    |
-| Vite       | Express.js     | Mongoose      | Maven           |
-| Bootstrap  | REST APIs      | CRUD          | API Integration |
-| Tailwind   | Authentication | Relationships | Deployment      |
+<div align="center">
+
+|  Frontend  |     Backend    |    Database   |   Engineering   |
+| :--------: | :------------: | :-----------: | :-------------: |
+|    React   |      Java      |     MySQL     |    REST APIs    |
+| JavaScript |   Spring Boot  |    MongoDB    |       JWT       |
+| HTML / CSS |     Node.js    |      SQL      |   Git / GitHub  |
+|    Vite    |   Express.js   |    Mongoose   |      Maven      |
+|  Bootstrap |    REST APIs   |      CRUD     | API Integration |
+|  Tailwind  | Authentication | Relationships |    Deployment   |
+
+</div>
 
 <details>
 <summary><b>View complete technical skills</b></summary>
@@ -512,7 +520,7 @@ Collaboration
 
 `TensorFlow` `Keras` `OpenCV`
 
-`Python AI Integration` `Data Processing`
+`Python` `AI Integration` `Data Processing`
 
 ### Tools & Deployment
 
@@ -599,36 +607,36 @@ Collaboration
 <div align="center">
 
 <pre>
-👤 USER
-   │
-   ▼
-┌────────────────────┐
-│     FRONTEND       │
-│ React / JavaScript │
-│ HTML / CSS         │
-└─────────┬──────────┘
-          │
-        REST
-          │
-          ▼
-┌────────────────────┐
-│      BACKEND       │
-│   Spring Boot      │
-│   Node / Express   │
-└─────────┬──────────┘
-          │
-     ┌────┴─────┐
-     ▼          ▼
- DATABASE      AI/API
- MySQL         Services
- MongoDB
-     │          │
-     └────┬─────┘
-          ▼
-      DEPLOYMENT
-     ┌────┴─────┐
-     ▼          ▼
-GitHub Pages  Netlify
+                    👤 USER
+                       │
+                       ▼
+               ┌──────────────┐
+               │   FRONTEND   │
+               │ React / JS   │
+               │ HTML / CSS   │
+               └──────┬───────┘
+                      │
+                    REST
+                      │
+                      ▼
+               ┌──────────────┐
+               │   BACKEND    │
+               │ Spring Boot  │
+               │ Node/Express │
+               └──────┬───────┘
+                      │
+                 ┌────┴────┐
+                 ▼         ▼
+             DATABASE    AI/API
+             MySQL       Services
+             MongoDB
+                 │         │
+                 └────┬────┘
+                      ▼
+                 DEPLOYMENT
+                 ┌────┴────┐
+                 ▼         ▼
+            GitHub Pages  Netlify
 </pre>
 
 </div>
@@ -669,15 +677,19 @@ INTERACTIVE UI
 
 # `09` · ENGINEERING MINDSET
 
-| #  | Principle      | Approach                                                        |
-| -- | -------------- | --------------------------------------------------------------- |
-| 01 | **UNDERSTAND** | Break complex problems into smaller systems                     |
-| 02 | **BUILD**      | Every feature should solve a real problem                       |
-| 03 | **DESIGN**     | UI should communicate, not simply decorate                      |
-| 04 | **STRUCTURE**  | APIs · validation · authentication · clean flow                 |
-| 05 | **DEBUG**      | Understand the error before fixing it                           |
-| 06 | **DEPLOY**     | A project becomes stronger when people can use it               |
-| 07 | **IMPROVE**    | Every project is another step toward becoming a better engineer |
+<div align="center">
+
+|   #  | Principle      | Approach                                                        |
+| :--: | :------------- | :-------------------------------------------------------------- |
+| `01` | **UNDERSTAND** | Break complex problems into smaller systems                     |
+| `02` | **BUILD**      | Every feature should solve a real problem                       |
+| `03` | **DESIGN**     | UI should communicate, not simply decorate                      |
+| `04` | **STRUCTURE**  | APIs · validation · authentication · clean flow                 |
+| `05` | **DEBUG**      | Understand the error before fixing it                           |
+| `06` | **DEPLOY**     | A project becomes stronger when people can use it               |
+| `07` | **IMPROVE**    | Every project is another step toward becoming a better engineer |
+
+</div>
 
 ---
 
@@ -725,37 +737,37 @@ INTERACTIVE UI
 
 <div align="center">
 
-<a href="https://jayeshgujar327.github.io/gullyverse/">
+<a href="https://jayeshgujar327.github.io/gullyverse/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GULLYVERSE-LIVE-111827?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GullyVerse">
 </a>
 
- 
+  
 
-<a href="https://jayeshgujar327.github.io/EIGHTEEN-the-era-of-kohli/">
+<a href="https://jayeshgujar327.github.io/EIGHTEEN-the-era-of-kohli/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/EIGHTEEN-LIVE-111827?style=for-the-badge&logo=github&logoColor=white" height="28" alt="EIGHTEEN">
 </a>
 
 <br><br>
 
-<a href="https://nexora327.netlify.app/">
+<a href="https://nexora327.netlify.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/NEXORA-LIVE-111827?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="Nexora">
 </a>
 
- 
+  
 
-<a href="https://jcinevault.netlify.app/">
+<a href="https://jcinevault.netlify.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/J_CINEVAULT-LIVE-111827?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="J CineVault">
 </a>
 
 <br><br>
 
-<a href="https://smartcare327.netlify.app/">
+<a href="https://smartcare327.netlify.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/SMARTCARE-LIVE-111827?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="SmartCare">
 </a>
 
- 
+  
 
-<a href="https://thejayeshport1.netlify.app/">
+<a href="https://thejayeshport1.netlify.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="Portfolio">
 </a>
 
@@ -769,7 +781,7 @@ INTERACTIVE UI
 
 ### 🚀 GITHUB
 
-<a href="https://github.com/jayeshgujar327">
+<a href="https://github.com/jayeshgujar327" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-jayeshgujar327-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub">
 </a>
 
@@ -779,7 +791,23 @@ INTERACTIVE UI
 
 <img src="https://img.shields.io/github/stars/jayeshgujar327?label=STARS&style=flat-square&logo=github" alt="GitHub Stars">
 
+<img src="https://img.shields.io/github/repos/jayeshgujar327?label=REPOSITORIES&style=flat-square&logo=github" alt="GitHub Repositories">
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=jayeshgujar327&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile Views">
+
+<br><br>
+
+<a href="https://github.com/jayeshgujar327?tab=overview">
+<img src="https://img.shields.io/badge/VIEW%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="View GitHub Profile">
+</a>
+
+  
+
+<a href="https://github.com/jayeshgujar327?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" height="30" alt="View Projects">
+</a>
 
 </div>
 
@@ -791,21 +819,33 @@ INTERACTIVE UI
 
 ### 🟩 CONTRIBUTION ACTIVITY
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayeshgujar327&theme=github_dark" width="900" alt="GitHub Contribution Activity">
+<a href="https://github.com/jayeshgujar327?tab=overview">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayeshgujar327&theme=github_dark" width="100%" alt="GitHub Contribution Activity">
+
+</a>
 
 <br><br>
 
 ### 💻 LANGUAGE ACTIVITY
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayeshgujar327&theme=github_dark" width="440" alt="Repository Languages">
+<a href="https://github.com/jayeshgujar327?tab=repositories">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayeshgujar327&theme=github_dark" width="100%" alt="Repository Languages">
+
+</a>
 
 <br><br>
-
-### 🔗 OPEN GITHUB ACTIVITY
 
 <a href="https://github.com/jayeshgujar327?tab=overview">
 <img src="https://img.shields.io/badge/VIEW%20FULL%20GITHUB%20ACTIVITY-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub Activity">
 </a>
+
+<br><br>
+
+<sub>
+GitHub remains the source of truth for contribution history, commits and activity.
+</sub>
 
 </div>
 
@@ -818,9 +858,20 @@ INTERACTIVE UI
 ### 🐍 PIXEL-BASED CONTRIBUTION JOURNEY
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayeshgujar327/jayeshgujar327/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayeshgujar327/jayeshgujar327/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/jayeshgujar327/jayeshgujar327/output/github-contribution-grid-snake.svg" width="900" alt="GitHub Contribution Snake">
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/jayeshgujar327/jayeshgujar327/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/jayeshgujar327/jayeshgujar327/output/github-contribution-grid-snake.svg">
+
+<img
+src="https://raw.githubusercontent.com/jayeshgujar327/jayeshgujar327/output/github-contribution-grid-snake.svg"
+width="100%"
+alt="GitHub Contribution Snake">
+
 </picture>
 
 <br><br>
@@ -861,31 +912,65 @@ Become a strong **Java Full Stack Developer / Software Engineer** capable of tak
 
 <div align="center">
 
-<a href="https://github.com/jayeshgujar327">
+<a href="https://github.com/jayeshgujar327" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-jayeshgujar327-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub">
 </a>
 
- 
+<br><br>
 
-<a href="https://www.linkedin.com/in/jayesh-gujar-943626315/">
+<a href="https://www.linkedin.com/in/jayesh-gujar-943626315/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn">
 </a>
 
- 
+  
 
-<a href="https://www.instagram.com/thejayesh327/">
+<a href="https://www.instagram.com/thejayesh327/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram">
 </a>
 
 <br><br>
 
-<a href="https://thejayeshport1.netlify.app/">
+<a href="https://thejayeshport1.netlify.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="Portfolio">
 </a>
 
 <br><br>
 
-### Build. Learn. Deploy. Improve.
+<img src="https://komarev.com/ghpvc/?username=jayeshgujar327&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" height="22" alt="Profile Views">
+
+<br><br>
+
+### `Build. Learn. Deploy. Improve.`
+
+</div>
+
+---
+
+# `17` · CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+### BUILDING CONSISTENTLY
+
+`Projects` · `Commits` · `Learning` · `Experiments` · `Open Source`
+
+<br><br>
+
+<a href="https://github.com/jayeshgujar327?tab=overview">
+<img src="https://img.shields.io/badge/VIEW%20LIVE%20GITHUB%20ACTIVITY-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub Activity">
+</a>
+
+<br><br>
+
+<a href="https://github.com/jayeshgujar327?tab=overview">
+<img src="https://img.shields.io/badge/OPEN%20GITHUB%20PROFILE-7C3AED?style=for-the-badge&logo=github&logoColor=white" height="30" alt="Open GitHub Profile">
+</a>
+
+<br><br>
+
+<sub>
+Contribution history and streak information are maintained directly by GitHub.
+</sub>
 
 </div>
 
@@ -897,13 +982,14 @@ Become a strong **Java Full Stack Developer / Software Engineer** capable of tak
 
 <br><br>
 
-### BUILD. LEARN. DEPLOY. IMPROVE.
+### `BUILD. LEARN. DEPLOY. IMPROVE.`
 
 <br>
 
 <sub>
+
 Java · Spring Boot · React · JavaScript · HTML · CSS · Node.js · Express.js · MySQL · MongoDB · REST APIs · JWT · Git · GitHub · Maven · DSA · OOP · DBMS · Operating Systems · Computer Networks
+
 </sub>
 
 </div>
-```
