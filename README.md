@@ -29,7 +29,7 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="55%" alt="Divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="55%" alt="Divider">
 
 </div>
 
@@ -37,53 +37,33 @@
 
 # `01` · ABOUT
 
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-
 ### Hi, I'm Jayesh.
 
 I'm a **Computer Science student and Java Full Stack Developer** who enjoys turning ideas into interactive, responsive and production-oriented applications.
 
 My development approach is simple:
 
+<div align="center">
+
 **Understand → Build → Debug → Connect → Deploy → Improve**
+
+</div>
 
 I enjoy frontend development, reusable components, API integration, backend logic and creating responsive applications.
 
 I learn by **building real projects**, not only by studying technologies theoretically.
 
-</td>
-
-<td width="38%" valign="top" align="center">
-
 ### CURRENT FOCUS
 
-`React`
+<div align="center">
 
-`JavaScript`
+`React` · `JavaScript` · `HTML / CSS` · `Java`
 
-`HTML / CSS`
+`Spring Boot` · `REST APIs` · `MySQL / MongoDB`
 
-`Java`
+`JWT` · `Git / GitHub` · `UI/UX` · `AI`
 
-`Spring Boot`
-
-`REST APIs`
-
-`MySQL / MongoDB`
-
-`JWT`
-
-`Git / GitHub`
-
-`UI/UX`
-
-`AI`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -386,55 +366,53 @@ Collaboration
 
 <div align="center">
 
-<pre>
-┌──────────────┐
-│   💡 IDEA    │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ 🔍 PROBLEM   │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ 🎨 UI / UX   │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ 🧩 COMPONENTS│
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ ⚛️ FRONTEND  │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ 🧠 LOGIC     │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ 🔌 REST API  │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ ☕ BACKEND   │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ 🗄️ DATABASE  │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ 🧪 TEST      │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ 🚀 DEPLOY    │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ 🔄 IMPROVE   │
-└──────────────┘
-</pre>
+`💡 IDEA`
+
+↓
+
+`🔍 PROBLEM`
+
+↓
+
+`🎨 UI / UX`
+
+↓
+
+`🧩 COMPONENTS`
+
+↓
+
+`⚛️ FRONTEND`
+
+↓
+
+`🧠 LOGIC`
+
+↓
+
+`🔌 REST API`
+
+↓
+
+`☕ BACKEND`
+
+↓
+
+`🗄️ DATABASE`
+
+↓
+
+`🧪 TEST`
+
+↓
+
+`🚀 DEPLOY`
+
+↓
+
+`🔄 IMPROVE`
+
+<br>
 
 ### I don't just build websites. I build experiences.
 
@@ -446,25 +424,25 @@ Collaboration
 
 <div align="center">
 
-### Languages
+### LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css,c,cpp&perline=7" height="34" alt="Programming Languages">
 
 <br><br>
 
-### Frontend
+### FRONTEND
 
 <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind&perline=4" height="34" alt="Frontend Technologies">
 
 <br><br>
 
-### Backend
+### BACKEND
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven&perline=4" height="34" alt="Backend Technologies">
 
 <br><br>
 
-### Database · Tools · Deployment
+### DATABASE · TOOLS · DEPLOYMENT
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman,npm&perline=7" height="34" alt="Development Tools">
 
@@ -568,7 +546,7 @@ Collaboration
 
 <br>
 
-### 💻 Operating Systems
+### 💻 OPERATING SYSTEMS
 
 `Processes` · `Threads` · `CPU Scheduling`
 
@@ -578,7 +556,7 @@ Collaboration
 
 <br>
 
-### 🌐 Computer Networks
+### 🌐 COMPUTER NETWORKS
 
 `OSI Model` · `TCP/IP` · `HTTP` · `HTTPS`
 
@@ -588,7 +566,7 @@ Collaboration
 
 <br>
 
-### 🔐 Web & Security
+### 🔐 WEB & SECURITY
 
 `REST APIs` · `HTTP Methods`
 
@@ -647,29 +625,47 @@ Collaboration
 
 <div align="center">
 
-<pre>
-USER
-  ↓
-LOGIN / REGISTER
-  ↓
-AUTHENTICATION
-  ↓
-JWT TOKEN
-  ↓
-PROTECTED ROUTES
-  ↓
-API REQUEST
-  ↓
-BACKEND
-  ↓
-DATABASE
-  ↓
-RESPONSE
-  ↓
-FRONTEND
-  ↓
-INTERACTIVE UI
-</pre>
+`USER`
+
+↓
+
+`LOGIN / REGISTER`
+
+↓
+
+`AUTHENTICATION`
+
+↓
+
+`JWT TOKEN`
+
+↓
+
+`PROTECTED ROUTES`
+
+↓
+
+`API REQUEST`
+
+↓
+
+`BACKEND`
+
+↓
+
+`DATABASE`
+
+↓
+
+`RESPONSE`
+
+↓
+
+`FRONTEND`
+
+↓
+
+`INTERACTIVE UI`
 
 </div>
 
@@ -819,9 +815,12 @@ INTERACTIVE UI
 
 ### 🟩 CONTRIBUTION ACTIVITY
 
-<a href="https://github.com/jayeshgujar327?tab=overview">
+<a href="https://github.com/jayeshgujar327?tab=overview" target="_blank" rel="noopener noreferrer">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayeshgujar327&theme=github_dark" width="100%" alt="GitHub Contribution Activity">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayeshgujar327&theme=github_dark"
+width="100%"
+alt="GitHub Contribution Activity">
 
 </a>
 
@@ -829,15 +828,18 @@ INTERACTIVE UI
 
 ### 💻 LANGUAGE ACTIVITY
 
-<a href="https://github.com/jayeshgujar327?tab=repositories">
+<a href="https://github.com/jayeshgujar327?tab=repositories" target="_blank" rel="noopener noreferrer">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayeshgujar327&theme=github_dark" width="100%" alt="Repository Languages">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayeshgujar327&theme=github_dark"
+width="100%"
+alt="Repository Languages">
 
 </a>
 
 <br><br>
 
-<a href="https://github.com/jayeshgujar327?tab=overview">
+<a href="https://github.com/jayeshgujar327?tab=overview" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/VIEW%20FULL%20GITHUB%20ACTIVITY-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub Activity">
 </a>
 
@@ -855,28 +857,26 @@ GitHub remains the source of truth for contribution history, commits and activit
 
 <div align="center">
 
-### 🐍 PIXEL-BASED CONTRIBUTION JOURNEY
+### 📈 GITHUB CONTRIBUTION JOURNEY
 
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/jayeshgujar327/jayeshgujar327/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/jayeshgujar327/jayeshgujar327/output/github-contribution-grid-snake.svg">
+<a href="https://github.com/jayeshgujar327?tab=overview" target="_blank" rel="noopener noreferrer">
 
 <img
-src="https://raw.githubusercontent.com/jayeshgujar327/jayeshgujar327/output/github-contribution-grid-snake.svg"
-width="100%"
-alt="GitHub Contribution Snake">
+src="https://img.shields.io/badge/OPEN%20MY%20GITHUB%20CONTRIBUTION%20GRAPH-181717?style=for-the-badge&logo=github&logoColor=white"
+height="32"
+alt="Open GitHub Contribution Graph">
 
-</picture>
+</a>
 
 <br><br>
 
-### BUILD · COMMIT · LEARN · REPEAT
+`BUILD` · `COMMIT` · `LEARN` · `REPEAT`
+
+<br><br>
+
+<sub>
+View the live contribution calendar directly on my GitHub profile.
+</sub>
 
 </div>
 
@@ -956,13 +956,13 @@ Become a strong **Java Full Stack Developer / Software Engineer** capable of tak
 
 <br><br>
 
-<a href="https://github.com/jayeshgujar327?tab=overview">
+<a href="https://github.com/jayeshgujar327?tab=overview" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/VIEW%20LIVE%20GITHUB%20ACTIVITY-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub Activity">
 </a>
 
 <br><br>
 
-<a href="https://github.com/jayeshgujar327?tab=overview">
+<a href="https://github.com/jayeshgujar327?tab=overview" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/OPEN%20GITHUB%20PROFILE-7C3AED?style=for-the-badge&logo=github&logoColor=white" height="30" alt="Open GitHub Profile">
 </a>
 
