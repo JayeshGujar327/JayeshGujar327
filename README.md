@@ -1,4 +1,30 @@
+<!--[![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/harshitwaldia)-->
+[![logo](https://github.com/HarshitWaldia/visual-artifacts/blob/main/GIFs/GitHub-Banner.gif?raw=true)](https://github.com/harshitwaldia)
+<!-- https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif --> <!--hi 1--> 
+<!--https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp--><!-- face hi-->
+<!--https://i.giphy.com/w1OBpBd7kJqHrJnJ13.webp--><!-- hi 2--> 
+<h1 align="center">Hi <img src="https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp" width="55">, I'm Harshit Waldia</h1>
+<p align="center">
+ <a href="https://github.com/harshitwaldia/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+ML+Enthusiast;MLOps+Explorer;Deep+Learning+Adventurer;Quantum+Entanglement+Evangelist;&center=true&width=600&height=80">
+</a>
+</p>
+<h2 align="center"> <img src="https://media.tenor.com/8OPCLlcaQoMAAAAj/cartoon-xolo.gif" width="35"> Computer Science Maverick 🤖</h2>
+<p align="center" >
+  <a href="https://github.com/harshitwaldia/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=💡+Major:+Computer+Science+Engineering;🌐+Specialization:+Machine+Learning+And+AI;Space+Exploration+Enthusiast;&center=true&width=600&height=80">
+</a>
+</p>
 
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitwaldia&label=Profile%20views&color=0e75b6&style=flat" alt="harshitwaldia" /> </p>
+
+- 👀 Interested in **Space And Cosmology** 
+- 🔭 Currently working on **Machine Learning And Deep Learnig Projects**
+- 🌱 Currently learning **DeepLearning And Digital Image Processing**
+- ⚡ Fun fact: I go by **ViperX** in-game and **Triton** when coding!
+- 📫 How to reach me **harshitwaldia112@gmail.com**
 <div align="center">
 
 <img src="https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp" width="55" alt="Hi animation">
