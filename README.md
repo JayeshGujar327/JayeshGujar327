@@ -1,15 +1,15 @@
-<!--[![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/harshitwaldia)-->
-![logo](https://github.com/HarshitWaldia/visual-artifacts/blob/main/GIFs/GitHub-Banner.gif?raw=true)
-<!-- https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif --> <!--hi 1--> 
-<!--https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp--><!-- face hi-->
-<!--https://i.giphy.com/w1OBpBd7kJqHrJnJ13.webp--><!-- hi 2--> 
 
+<div align="center">
+
+<img src="https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp" width="55" alt="Hi animation">
 
 # Hi, I'm **Jayesh Gujar** 👋
 
 ### ☕ Java Full Stack Developer · ⚛️ React · 🌱 Spring Boot · 🤖 AI
 
-<p>Building real-world applications · Learning by building · Frontend → API → Backend → Database → Deployment</p>
+<p>
+Building real-world applications · Learning by building · Frontend → API → Backend → Database → Deployment
+</p>
 
 <p>
   <a href="https://github.com/jayeshgujar327">
@@ -29,7 +29,11 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=jayeshgujar327&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views">
+<img
+  src="https://komarev.com/ghpvc/?username=jayeshgujar327&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
+  alt="Profile views"
+  width="100%"
+>
 
 </div>
 
@@ -37,7 +41,16 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding animation" width="420" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
+<div align="center">
+
+<img
+  src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1"
+  alt="Coding animation"
+  width="100%"
+  height="auto"
+>
+
+</div>
 
 I'm a **Computer Science student and Java Full Stack Developer** who enjoys turning ideas into interactive, responsive and production-oriented applications.
 
@@ -48,35 +61,57 @@ I'm a **Computer Science student and Java Full Stack Developer** who enjoys turn
 - 🧩 Focused on **Frontend ↔ API ↔ Backend ↔ Database integration**
 - ⚡ Engineering mindset: **Understand → Build → Debug → Connect → Deploy → Improve**
 
-<br clear="right">
-
 ---
 
 # 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="55" alt="Coding sticker">
+<img
+  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+  width="55"
+  alt="Coding sticker"
+>
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css&perline=7" alt="Languages">
+<img
+  src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css&perline=4"
+  width="100%"
+  alt="Languages"
+>
 
 ### ⚛️ Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind&perline=4" alt="Frontend technologies">
+<img
+  src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind&perline=4"
+  width="100%"
+  alt="Frontend technologies"
+>
 
 ### ☕ Backend
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven&perline=4" alt="Backend technologies">
+<img
+  src="https://skillicons.dev/icons?i=spring,nodejs,express,maven&perline=4"
+  width="100%"
+  alt="Backend technologies"
+>
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=3" alt="Database technologies">
+<img
+  src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=3"
+  width="100%"
+  alt="Database technologies"
+>
 
 ### 🔧 Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,netlify&perline=6" alt="Tools">
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,netlify&perline=3"
+  width="100%"
+  alt="Tools"
+>
 
 ### 🤖 AI / Data / Computer Vision
 
@@ -90,7 +125,13 @@ I'm a **Computer Science student and Java Full Stack Developer** who enjoys turn
 
 <div align="center">
 
-<img src="https://media.tenor.com/cH_yvjYMGU0AAAAi/hackerman-programming.gif" width="75" alt="Programming sticker">
+<img
+  src="https://media.tenor.com/cH_yvjYMGU0AAAAi/hackerman-programming.gif"
+  width="75"
+  alt="Programming sticker"
+>
+
+</div>
 
 | Area | What I Work With |
 |:---:|:---|
@@ -101,8 +142,6 @@ I'm a **Computer Science student and Java Full Stack Developer** who enjoys turn
 | 🌐 **Networks** | OSI · TCP/IP · HTTP · HTTPS · DNS · Client-Server Architecture |
 | 🔐 **Web Security** | REST APIs · HTTP Methods · Authentication · Authorization · JWT · API Validation |
 
-</div>
-
 ---
 
 # 🚀 Featured Projects
@@ -111,15 +150,23 @@ I'm a **Computer Science student and Java Full Stack Developer** who enjoys turn
 
 <div align="center">
 
-<img src="assets/projects/portfolio.jpg" width="100%" alt="Jayesh Gujar Portfolio">
+<img
+  src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1400&q=80"
+  width="100%"
+  height="auto"
+  alt="Developer coding workspace"
+>
 
 ### PERSONAL DEVELOPER PORTFOLIO
 
 <a href="https://thejayeshport1.netlify.app/">
-<img src="https://img.shields.io/badge/🚀_VIEW_LIVE_PORTFOLIO-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="View Portfolio">
+<img
+  src="https://img.shields.io/badge/🚀_VIEW_LIVE_PORTFOLIO-7C3AED?style=for-the-badge&logo=netlify&logoColor=white"
+  alt="View portfolio"
+>
 </a>
 
-<br><br>
+<br>
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Animations` `Responsive UI`
 
@@ -135,17 +182,29 @@ Personal developer portfolio showcasing **skills, projects, technologies, develo
 
 <div align="center">
 
-<img src="assets/projects/gullyverse.jpg" width="100%" alt="GullyVerse project visual">
+<img
+  src="https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1400&q=80"
+  width="100%"
+  height="auto"
+  alt="Hip-hop atmosphere"
+>
 
-<img src="https://media.tenor.com/VUN-dhMVV9wAAAAj/social-media-jumping.gif" width="70" alt="Music sticker">
+<img
+  src="https://media.tenor.com/VUN-dhMVV9wAAAAj/social-media-jumping.gif"
+  width="70"
+  alt="Music sticker"
+>
 
 ### THE INDIAN HIP-HOP UNIVERSE
 
 <a href="https://jayeshgujar327.github.io/gullyverse/">
-<img src="https://img.shields.io/badge/🎤_VIEW_LIVE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GullyVerse">
+<img
+  src="https://img.shields.io/badge/🎤_VIEW_LIVE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"
+  alt="GullyVerse"
+>
 </a>
 
-<br><br>
+<br>
 
 `Indian Hip-Hop` `Interactive UI` `HTML` `CSS` `JavaScript` `GitHub Pages`
 
@@ -161,17 +220,29 @@ An immersive Indian hip-hop experience built around **artists, music, culture an
 
 <div align="center">
 
-<img src="assets/projects/eighteen.jpg" width="100%" alt="EIGHTEEN The Era of Kohli">
+<img
+  src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Virat_Kohli.jpg"
+  width="100%"
+  height="auto"
+  alt="Cricket project visual"
+>
 
-<img src="https://media.tenor.com/gltER5OeK9wAAAAi/qws.gif" width="65" alt="Cricket sticker">
+<img
+  src="https://media.tenor.com/gltER5OeK9wAAAAi/qws.gif"
+  width="65"
+  alt="Cricket sticker"
+>
 
 ### THE ERA OF KOHLI
 
 <a href="https://jayeshgujar327.github.io/EIGHTEEN-the-era-of-kohli/">
-<img src="https://img.shields.io/badge/🏏_VIEW_LIVE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="EIGHTEEN">
+<img
+  src="https://img.shields.io/badge/🏏_VIEW_LIVE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"
+  alt="EIGHTEEN"
+>
 </a>
 
-<br><br>
+<br>
 
 `Cinematic UI` `Interactive` `HTML` `CSS` `JavaScript` `Animations`
 
@@ -187,15 +258,27 @@ A cinematic tribute experience around **Virat Kohli's journey, achievements, mem
 
 <div align="center">
 
-<img src="assets/projects/nexora.jpg" width="100%" alt="Nexora project interface">
+<img
+  src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1400&q=80"
+  width="100%"
+  height="auto"
+  alt="Modern software development"
+>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="60" alt="Technology sticker">
+<img
+  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+  width="60"
+  alt="Technology sticker"
+>
 
 <a href="https://nexora327.netlify.app/">
-<img src="https://img.shields.io/badge/🚀_VIEW_LIVE_PROJECT-00A98F?style=for-the-badge&logo=netlify&logoColor=white" alt="Nexora">
+<img
+  src="https://img.shields.io/badge/🚀_VIEW_LIVE_PROJECT-00A98F?style=for-the-badge&logo=netlify&logoColor=white"
+  alt="Nexora"
+>
 </a>
 
-<br><br>
+<br>
 
 `React` `JavaScript` `CSS` `UI/UX` `Responsive Design`
 
@@ -211,17 +294,27 @@ Modern web experience focused on **clean UI, reusable components, responsive lay
 
 <div align="center">
 
-<img src="assets/projects/cinevault.webp" width="100%" alt="J CineVault movie and entertainment experience">
+<img
+  src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1400&q=80"
+  width="100%"
+  height="auto"
+  alt="Cinema experience"
+>
 
-<img src="https://i.pinimg.com/originals/73/e1/54/73e15422011e763ea9b303a7738e71a3.gif" width="65" alt="Cinema sticker">
-
-### CINEMATIC MOVIE EXPERIENCE
+<img
+  src="https://i.pinimg.com/originals/73/e1/54/73e15422011e763ea9b303a7738e71a3.gif"
+  width="65"
+  alt="Cinema sticker"
+>
 
 <a href="https://jcinevault.netlify.app/">
-<img src="https://img.shields.io/badge/🎬_VIEW_LIVE_PROJECT-E50914?style=for-the-badge&logo=netlify&logoColor=white" alt="J CineVault">
+<img
+  src="https://img.shields.io/badge/🎬_VIEW_LIVE_PROJECT-E50914?style=for-the-badge&logo=netlify&logoColor=white"
+  alt="J CineVault"
+>
 </a>
 
-<br><br>
+<br>
 
 `HTML` `CSS` `JavaScript` `UI/UX` `Movie Discovery` `Netlify`
 
@@ -237,17 +330,29 @@ Cinematic entertainment experience designed around **movies, discovery and visua
 
 <div align="center">
 
-<img src="assets/projects/smartcare.png" width="100%" alt="SmartCare vaccination and medicine reminder system">
+<img
+  src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1400&q=80"
+  width="100%"
+  height="auto"
+  alt="Healthcare technology"
+>
 
-<img src="https://media.tenor.com/c1_NM0wDAvAAAAAj/data-datos.gif" width="65" alt="Healthcare data sticker">
+<img
+  src="https://media.tenor.com/c1_NM0wDAvAAAAAj/data-datos.gif"
+  width="65"
+  alt="Healthcare data sticker"
+>
 
 ### SMARTCARE · HEALTHCARE + AI
 
 <a href="https://smartcare327.netlify.app/">
-<img src="https://img.shields.io/badge/💉_VIEW_LIVE_PROJECT-00A98F?style=for-the-badge&logo=netlify&logoColor=white" alt="SmartCare">
+<img
+  src="https://img.shields.io/badge/💉_VIEW_LIVE_PROJECT-00A98F?style=for-the-badge&logo=netlify&logoColor=white"
+  alt="SmartCare"
+>
 </a>
 
-<br><br>
+<br>
 
 `React` `TypeScript` `Tailwind CSS` `Node.js` `Express.js` `Firestore` `Gemini API` `Google Maps` `PWA`
 
@@ -366,27 +471,49 @@ Collaboration
 <div align="center">
 
 `💡 IDEA`
+
 ↓
+
 `🔍 PROBLEM`
+
 ↓
+
 `🎨 UI / UX`
+
 ↓
+
 `🧩 COMPONENTS`
+
 ↓
+
 `⚛️ FRONTEND`
+
 ↓
+
 `🧠 LOGIC`
+
 ↓
+
 `🔌 REST API`
+
 ↓
+
 `☕ BACKEND`
+
 ↓
+
 `🗄️ DATABASE`
+
 ↓
+
 `🧪 TEST`
+
 ↓
+
 `🚀 DEPLOY`
+
 ↓
+
 `🔄 IMPROVE`
 
 ### I don't just build websites. I build experiences.
@@ -399,24 +526,50 @@ Collaboration
 
 <div align="center">
 
-<img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif" width="45" alt="Activity sticker">
+<img
+  src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif"
+  width="45"
+  alt="Activity sticker"
+>
 
 ### ⚡ BUILDING IN PUBLIC
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshgujar327&theme=react-dark&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshgujar327&theme=react-dark&area=true&hide_border=true"
+  width="100%"
+  height="auto"
+  alt="GitHub Activity Graph"
+>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayeshgujar327&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" alt="GitHub Stats">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=jayeshgujar327&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+  width="100%"
+  height="auto"
+  alt="GitHub Stats"
+>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshgujar327&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages">
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshgujar327&layout=compact&theme=tokyonight&hide_border=true"
+  width="100%"
+  height="auto"
+  alt="Top Languages"
+>
 
-<br><br>
+<br>
 
 <a href="https://github.com/jayeshgujar327">
-<img src="https://github-profile-trophy.vercel.app/?username=jayeshgujar327&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" alt="GitHub Trophies">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=jayeshgujar327&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1"
+  width="100%"
+  height="auto"
+  alt="GitHub Trophies"
+>
+
 </a>
 
 </div>
@@ -427,13 +580,22 @@ Collaboration
 
 <div align="center">
 
-<img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif" width="50" alt="LeetCode sticker">
+<img
+  src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif"
+  width="50"
+  alt="LeetCode sticker"
+>
 
 ### DSA · PROBLEM SOLVING · ALGORITHMS · CONSISTENCY
 
 <a href="https://leetcode.com/u/Jayesh327/">
 
-<img src="https://leetcard.jacoblin.cool/Jayesh327?theme=dark&font=Roboto&ext=heatmap" width="100%" alt="Jayesh327 LeetCode statistics">
+<img
+  src="https://leetcard.jacoblin.cool/Jayesh327?theme=dark&font=Roboto&ext=heatmap"
+  width="100%"
+  height="auto"
+  alt="Jayesh327 LeetCode statistics"
+>
 
 </a>
 
@@ -441,7 +603,10 @@ Collaboration
 
 <a href="https://leetcode.com/u/Jayesh327/">
 
-<img src="https://img.shields.io/badge/LeetCode-Jayesh327-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Jayesh327 LeetCode">
+<img
+  src="https://img.shields.io/badge/LeetCode-Jayesh327-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+  alt="Jayesh327 LeetCode"
+>
 
 </a>
 
@@ -454,23 +619,38 @@ Collaboration
 <div align="center">
 
 <a href="https://leetcode.com/u/Jayesh327/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+<img
+  src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+  alt="LeetCode"
+>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank">
+<img
+  src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"
+  alt="HackerRank"
+>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+<img
+  src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
+  alt="CodeChef"
+>
 </a>
 
 <a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+<img
+  src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
+  alt="Codeforces"
+>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+<img
+  src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+  alt="GeeksforGeeks"
+>
 </a>
 
 </div>
@@ -482,7 +662,7 @@ Collaboration
 <div align="center">
 
 | Category | Skills |
-| :---: | :--- |
+|:---:|:---|
 | **Programming** | Java · JavaScript · Python · HTML5 · CSS3 · C · C++ |
 | **Frontend** | React · Vite · Bootstrap · Tailwind CSS · DOM · Responsive Design · Component Architecture · Animations |
 | **Backend** | Java · Spring Boot · Node.js · Express.js · REST APIs · JWT · Authentication · Authorization · Maven |
@@ -500,7 +680,11 @@ Collaboration
 
 <div align="center">
 
-<img src="https://media.tenor.com/cH_yvjYMGU0AAAAi/hackerman-programming.gif" width="70" alt="Learning sticker">
+<img
+  src="https://media.tenor.com/cH_yvjYMGU0AAAAi/hackerman-programming.gif"
+  width="70"
+  alt="Learning sticker"
+>
 
 `☕ JAVA` · `🌱 SPRING BOOT` · `⚛️ REACT` · `🧠 DSA`
 
@@ -517,27 +701,45 @@ Collaboration
 <div align="center">
 
 <a href="https://jayeshgujar327.github.io/gullyverse/">
-<img src="https://img.shields.io/badge/GULLYVERSE-LIVE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GullyVerse">
+<img
+  src="https://img.shields.io/badge/GULLYVERSE-LIVE-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GullyVerse"
+>
 </a>
 
 <a href="https://jayeshgujar327.github.io/EIGHTEEN-the-era-of-kohli/">
-<img src="https://img.shields.io/badge/EIGHTEEN-LIVE-181717?style=for-the-badge&logo=github&logoColor=white" alt="EIGHTEEN">
+<img
+  src="https://img.shields.io/badge/EIGHTEEN-LIVE-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="EIGHTEEN"
+>
 </a>
 
 <a href="https://nexora327.netlify.app/">
-<img src="https://img.shields.io/badge/NEXORA-LIVE-00A98F?style=for-the-badge&logo=netlify&logoColor=white" alt="Nexora">
+<img
+  src="https://img.shields.io/badge/NEXORA-LIVE-00A98F?style=for-the-badge&logo=netlify&logoColor=white"
+  alt="Nexora"
+>
 </a>
 
 <a href="https://jcinevault.netlify.app/">
-<img src="https://img.shields.io/badge/J_CINEVAULT-LIVE-E50914?style=for-the-badge&logo=netlify&logoColor=white" alt="J CineVault">
+<img
+  src="https://img.shields.io/badge/J_CINEVAULT-LIVE-E50914?style=for-the-badge&logo=netlify&logoColor=white"
+  alt="J CineVault"
+>
 </a>
 
 <a href="https://smartcare327.netlify.app/">
-<img src="https://img.shields.io/badge/SMARTCARE-LIVE-00A98F?style=for-the-badge&logo=netlify&logoColor=white" alt="SmartCare">
+<img
+  src="https://img.shields.io/badge/SMARTCARE-LIVE-00A98F?style=for-the-badge&logo=netlify&logoColor=white"
+  alt="SmartCare"
+>
 </a>
 
 <a href="https://thejayeshport1.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-LIVE-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+<img
+  src="https://img.shields.io/badge/PORTFOLIO-LIVE-7C3AED?style=for-the-badge&logo=netlify&logoColor=white"
+  alt="Portfolio"
+>
 </a>
 
 </div>
@@ -548,28 +750,47 @@ Collaboration
 
 <div align="center">
 
-<img src="https://media.tenor.com/VUN-dhMVV9wAAAAj/social-media-jumping.gif" width="80" alt="Connect sticker">
+<img
+  src="https://media.tenor.com/VUN-dhMVV9wAAAAj/social-media-jumping.gif"
+  width="80"
+  alt="Connect sticker"
+>
 
 <br>
 
 <a href="https://github.com/jayeshgujar327">
-<img src="https://img.shields.io/badge/GitHub-jayeshgujar327-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img
+  src="https://img.shields.io/badge/GitHub-jayeshgujar327-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+>
 </a>
 
 <a href="https://www.linkedin.com/in/jayesh-gujar-943626315/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img
+  src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+>
 </a>
 
 <a href="https://www.instagram.com/thejayesh327/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<img
+  src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+  alt="Instagram"
+>
 </a>
 
 <a href="https://thejayeshport1.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+<img
+  src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=netlify&logoColor=white"
+  alt="Portfolio"
+>
 </a>
 
 <a href="https://leetcode.com/u/Jayesh327/">
-<img src="https://img.shields.io/badge/LeetCode-Jayesh327-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+<img
+  src="https://img.shields.io/badge/LeetCode-Jayesh327-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+  alt="LeetCode"
+>
 </a>
 
 <br><br>
@@ -586,7 +807,12 @@ Collaboration
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,40:7C3AED,70:4C1D95,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,40:7C3AED,70:4C1D95,100:0F172A&height=120&section=footer&animation=fadeIn"
+  width="100%"
+  height="auto"
+  alt="Footer"
+>
 
 ### 🚀 Java · Spring Boot · React · JavaScript · AI · Full Stack
 
