@@ -8,23 +8,7 @@
  <a href="https://github.com/harshitwaldia/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+ML+Enthusiast;MLOps+Explorer;Deep+Learning+Adventurer;Quantum+Entanglement+Evangelist;&center=true&width=600&height=80">
 </a>
-</p>
-<h2 align="center"> <img src="https://media.tenor.com/8OPCLlcaQoMAAAAj/cartoon-xolo.gif" width="35"> Computer Science Maverick 🤖</h2>
-<p align="center" >
-  <a href="https://github.com/harshitwaldia/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=💡+Major:+Computer+Science+Engineering;🌐+Specialization:+Machine+Learning+And+AI;Space+Exploration+Enthusiast;&center=true&width=600&height=80">
-</a>
-</p>
 
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitwaldia&label=Profile%20views&color=0e75b6&style=flat" alt="harshitwaldia" /> </p>
-
-- 👀 Interested in **Space And Cosmology** 
-- 🔭 Currently working on **Machine Learning And Deep Learnig Projects**
-- 🌱 Currently learning **DeepLearning And Digital Image Processing**
-- ⚡ Fun fact: I go by **ViperX** in-game and **Triton** when coding!
-- 📫 How to reach me **harshitwaldia112@gmail.com**
 <div align="center">
 
 <img src="https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp" width="55" alt="Hi animation">
