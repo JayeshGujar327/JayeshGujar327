@@ -35,7 +35,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding animation" width="360" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
+<img align="right" alt="Coding animation" width="100%" height="auto" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
 
 I'm a **Computer Science student and Java Full Stack Developer** who enjoys turning ideas into interactive, responsive and production-oriented applications.
 
@@ -405,9 +405,11 @@ Collaboration
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayeshgujar327&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=jayeshgujar327&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshgujar327&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages">
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshgujar327&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages">
 
 <br><br>
 
