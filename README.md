@@ -103,19 +103,18 @@ I'm a **Computer Science student and Java Full Stack Developer** who enjoys turn
 </div>
 
 ---
-
 # 🚀 Featured Projects
 
 ## 🌐 Jayesh Gujar Portfolio
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1400&q=80" width="100%" alt="Developer coding workspace">
+<img src="assets/projects/portfolio.jpg" width="100%" alt="Jayesh Gujar Portfolio">
 
 ### PERSONAL DEVELOPER PORTFOLIO
 
 <a href="https://thejayeshport1.netlify.app/">
-<img src="https://img.shields.io/badge/🚀_VIEW_LIVE_PORTFOLIO-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="View portfolio">
+<img src="https://img.shields.io/badge/🚀_VIEW_LIVE_PORTFOLIO-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="View Portfolio">
 </a>
 
 <br><br>
@@ -134,7 +133,7 @@ Personal developer portfolio showcasing **skills, projects, technologies, develo
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1400&q=80" width="100%" alt="Hip-hop atmosphere">
+<img src="assets/projects/nexora.jpg" width="100%" alt="GullyVerse project visual">
 
 <img src="https://media.tenor.com/VUN-dhMVV9wAAAAj/social-media-jumping.gif" width="70" alt="Music sticker">
 
@@ -160,7 +159,7 @@ An immersive Indian hip-hop experience built around **artists, music, culture an
 
 <div align="center">
 
-<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Virat_Kohli.jpg" width="100%" alt="Cricket project visual">
+<img src="assets/projects/eighteen.jpg" width="100%" alt="EIGHTEEN The Era of Kohli">
 
 <img src="https://media.tenor.com/gltER5OeK9wAAAAi/qws.gif" width="65" alt="Cricket sticker">
 
@@ -186,7 +185,7 @@ A cinematic tribute experience around **Virat Kohli's journey, achievements, mem
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1400&q=80" width="100%" alt="Modern software development">
+<img src="assets/projects/nexora.jpg" width="100%" alt="Nexora project interface">
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="60" alt="Technology sticker">
 
@@ -210,9 +209,11 @@ Modern web experience focused on **clean UI, reusable components, responsive lay
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1400&q=80" width="100%" alt="Cinema experience">
+<img src="assets/projects/cinevault.webp" width="100%" alt="J CineVault movie and entertainment experience">
 
 <img src="https://i.pinimg.com/originals/73/e1/54/73e15422011e763ea9b303a7738e71a3.gif" width="65" alt="Cinema sticker">
+
+### CINEMATIC MOVIE EXPERIENCE
 
 <a href="https://jcinevault.netlify.app/">
 <img src="https://img.shields.io/badge/🎬_VIEW_LIVE_PROJECT-E50914?style=for-the-badge&logo=netlify&logoColor=white" alt="J CineVault">
@@ -234,7 +235,7 @@ Cinematic entertainment experience designed around **movies, discovery and visua
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1400&q=80" width="100%" alt="Healthcare technology">
+<img src="assets/projects/smartcare.png" width="100%" alt="SmartCare vaccination and medicine reminder system">
 
 <img src="https://media.tenor.com/c1_NM0wDAvAAAAAj/data-datos.gif" width="65" alt="Healthcare data sticker">
 
@@ -245,6 +246,49 @@ Cinematic entertainment experience designed around **movies, discovery and visua
 </a>
 
 <br><br>
+
+`React` `TypeScript` `Tailwind CSS` `Node.js` `Express.js` `Firestore` `Gemini API` `Google Maps` `PWA`
+
+</div>
+
+A smart healthcare platform designed for **vaccination tracking, medicine reminders and digital health workflows**.
+
+### ✨ Core Features
+
+- 💉 Vaccination schedules and tracking
+- ⏰ Medicine reminders
+- 🪪 Digital vaccination cards
+- 🔎 QR verification
+- 📍 Nearby vaccination centers
+- 🤖 SmartCare AI assistance
+- 🧠 AI / RAG-assisted healthcare workflows
+- 🌐 English · Hindi · Marathi support
+- 📱 PWA experience
+- 🛠️ Admin dashboard
+
+---
+
+# 🎓 SPPU SmartPrep AI
+
+<details>
+<summary><b>🎓 Click to explore SPPU SmartPrep AI</b></summary>
+
+<br>
+
+AI-powered exam preparation platform designed around the **SPPU syllabus and previous-year-question workflow**.
+
+```text
+PYQ ANALYZER
+      ↓
+AI EXAM PREDICTOR
+      ↓
+SMART NOTES
+      ↓
+QUESTION BANK
+      ↓
+MOCK TESTS
+      ↓
+AI STUDY ASSISTANT
 
 `React` `TypeScript` `Tailwind CSS` `Node.js` `Express.js` `Firestore` `Gemini API` `Google Maps` `PWA`
 
