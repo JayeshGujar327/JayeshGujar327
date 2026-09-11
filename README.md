@@ -5,9 +5,9 @@
 
 # Hi, I'm **Jayesh Gujar** 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=760&height=80&lines=Java+Full+Stack+Developer;React+%2B+Spring+Boot+Developer;AI-Assisted+Application+Builder;Building+Real+World+Projects;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing animation">
-
 ### ☕ Java Full Stack Developer · ⚛️ React · 🌱 Spring Boot · 🤖 AI
+
+<p>Building real-world applications · Learning by building · Frontend → API → Backend → Database → Deployment</p>
 
 <p>
   <a href="https://github.com/jayeshgujar327">
@@ -22,7 +22,7 @@
   <a href="https://thejayeshport1.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://leetcode.com/Jayesh327/">
+  <a href="https://leetcode.com/u/Jayesh327/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </p>
@@ -35,7 +35,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding animation" width="100%" height="auto" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
+<img align="right" alt="Coding animation" width="420" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
 
 I'm a **Computer Science student and Java Full Stack Developer** who enjoys turning ideas into interactive, responsive and production-oriented applications.
 
@@ -361,8 +361,6 @@ Collaboration
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=720&height=70&lines=IDEA+%E2%86%92+PROBLEM+%E2%86%92+DESIGN;CODE+%E2%86%92+API+%E2%86%92+DATABASE;TEST+%E2%86%92+DEPLOY+%E2%86%92+IMPROVE" alt="Development flow">
-
 `💡 IDEA`
 ↓
 `🔍 PROBLEM`
@@ -429,7 +427,7 @@ Collaboration
 
 ### DSA · PROBLEM SOLVING · ALGORITHMS · CONSISTENCY
 
-<a href="https://leetcode.com/Jayesh327/">
+<a href="https://leetcode.com/u/Jayesh327/">
 
 <img src="https://leetcard.jacoblin.cool/Jayesh327?theme=dark&font=Roboto&ext=heatmap" width="100%" alt="Jayesh327 LeetCode statistics">
 
@@ -437,7 +435,7 @@ Collaboration
 
 <br>
 
-<a href="https://leetcode.com/Jayesh327/">
+<a href="https://leetcode.com/u/Jayesh327/">
 
 <img src="https://img.shields.io/badge/LeetCode-Jayesh327-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Jayesh327 LeetCode">
 
@@ -451,7 +449,7 @@ Collaboration
 
 <div align="center">
 
-<a href="https://leetcode.com/Jayesh327/">
+<a href="https://leetcode.com/u/Jayesh327/">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
 
@@ -566,7 +564,7 @@ Collaboration
 <img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
 </a>
 
-<a href="https://leetcode.com/Jayesh327/">
+<a href="https://leetcode.com/u/Jayesh327/">
 <img src="https://img.shields.io/badge/LeetCode-Jayesh327-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
 
@@ -580,7 +578,7 @@ Collaboration
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=650&height=70&lines=BUILD.;LEARN.;DEPLOY.;IMPROVE.;REPEAT." alt="Final animation">
+### `BUILD.` · `LEARN.` · `DEPLOY.` · `IMPROVE.` · `REPEAT.`
 
 <br>
 
@@ -592,4 +590,3 @@ Collaboration
 
 </div>
 ```
-
