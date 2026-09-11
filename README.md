@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 <img src="https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp" width="55" alt="Hi animation">
@@ -22,6 +21,9 @@
   </a>
   <a href="https://thejayeshport1.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://leetcode.com/Jayesh327/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </p>
 
@@ -425,19 +427,17 @@ Collaboration
 
 ### DSA · PROBLEM SOLVING · ALGORITHMS · CONSISTENCY
 
-<!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username -->
+<a href="https://leetcode.com/Jayesh327/">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Roboto&ext=heatmap" width="100%" alt="LeetCode statistics">
+<img src="https://leetcard.jacoblin.cool/Jayesh327?theme=dark&font=Roboto&ext=heatmap" width="100%" alt="Jayesh327 LeetCode statistics">
 
 </a>
 
 <br>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/Jayesh327/">
 
-<img src="https://img.shields.io/badge/LeetCode-SOLVE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+<img src="https://img.shields.io/badge/LeetCode-Jayesh327-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Jayesh327 LeetCode">
 
 </a>
 
@@ -449,7 +449,7 @@ Collaboration
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/Jayesh327/">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
 
@@ -564,6 +564,10 @@ Collaboration
 <img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
 </a>
 
+<a href="https://leetcode.com/Jayesh327/">
+<img src="https://img.shields.io/badge/LeetCode-Jayesh327-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
+
 <br><br>
 
 ### `Build. Learn. Deploy. Improve.`
@@ -586,3 +590,4 @@ Collaboration
 
 </div>
 ```
+
