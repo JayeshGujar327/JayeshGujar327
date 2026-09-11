@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 <img src="https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp" width="55" alt="Hi animation">
@@ -103,6 +102,7 @@ I'm a **Computer Science student and Java Full Stack Developer** who enjoys turn
 </div>
 
 ---
+
 # 🚀 Featured Projects
 
 ## 🌐 Jayesh Gujar Portfolio
@@ -133,7 +133,7 @@ Personal developer portfolio showcasing **skills, projects, technologies, develo
 
 <div align="center">
 
-<img src="assets/projects/nexora.jpg" width="100%" alt="GullyVerse project visual">
+<img src="assets/projects/gullyverse.jpg" width="100%" alt="GullyVerse project visual">
 
 <img src="https://media.tenor.com/VUN-dhMVV9wAAAAj/social-media-jumping.gif" width="70" alt="Music sticker">
 
@@ -289,57 +289,14 @@ QUESTION BANK
 MOCK TESTS
       ↓
 AI STUDY ASSISTANT
-
-`React` `TypeScript` `Tailwind CSS` `Node.js` `Express.js` `Firestore` `Gemini API` `Google Maps` `PWA`
-
-</div>
-
-A smart healthcare platform designed for **vaccination tracking, medicine reminders and digital health workflows**.
-
-### ✨ Core Features
-
-- 💉 Vaccination schedules and tracking
-- ⏰ Medicine reminders
-- 🪪 Digital vaccination cards
-- 🔎 QR verification
-- 📍 Nearby vaccination centers
-- 🤖 SmartCare AI assistance
-- 🧠 AI / RAG-assisted healthcare workflows
-- 🌐 English · Hindi · Marathi support
-- 📱 PWA experience
-- 🛠️ Admin dashboard
-
----
-
-# 🎓 SPPU SmartPrep AI
-
-<details>
-<summary><b>🎓 Click to explore SPPU SmartPrep AI</b></summary>
-
-<br>
-
-AI-powered exam preparation platform designed around the **SPPU syllabus and previous-year-question workflow**.
-
-```text
-PYQ ANALYZER
-      ↓
-AI EXAM PREDICTOR
-      ↓
-SMART NOTES
-      ↓
-QUESTION BANK
-      ↓
-MOCK TESTS
-      ↓
-AI STUDY ASSISTANT
-````
+```
 
 ### Features
 
-* Unit-wise analysis
-* Repeated question detection
-* Expected question generation
-* AI study assistance
+- Unit-wise analysis
+- Repeated question detection
+- Expected question generation
+- AI study assistance
 
 ### Architecture
 
@@ -362,12 +319,12 @@ Full-stack job portal covering **recruiter and applicant workflows**.
 
 ### Includes
 
-* Applicant workflow
-* Recruiter dashboard
-* Job management
-* Authentication
-* Applications
-* REST APIs
+- Applicant workflow
+- Recruiter dashboard
+- Job management
+- Authentication
+- Applications
+- REST APIs
 
 </details>
 
@@ -522,16 +479,16 @@ Collaboration
 
 <div align="center">
 
-|     Category    | Skills                                                                                                  |
-| :-------------: | :------------------------------------------------------------------------------------------------------ |
-| **Programming** | Java · JavaScript · Python · HTML5 · CSS3 · C · C++                                                     |
-|   **Frontend**  | React · Vite · Bootstrap · Tailwind CSS · DOM · Responsive Design · Component Architecture · Animations |
-|   **Backend**   | Java · Spring Boot · Node.js · Express.js · REST APIs · JWT · Authentication · Authorization · Maven    |
-|   **Database**  | MySQL · MongoDB · SQL · Mongoose · CRUD · Database Design · Relationships                               |
-|  **AI / Data**  | AI-assisted Development · OCR · TensorFlow · Keras · OpenCV · Python · AI Integration · Data Processing |
-|    **Tools**    | Git · GitHub · VS Code · Postman · Maven · NPM                                                          |
-|  **Deployment** | GitHub Pages · Netlify                                                                                  |
-| **Engineering** | API Integration · Debugging · Deployment · UI/UX · Problem Solving                                      |
+| Category | Skills |
+| :---: | :--- |
+| **Programming** | Java · JavaScript · Python · HTML5 · CSS3 · C · C++ |
+| **Frontend** | React · Vite · Bootstrap · Tailwind CSS · DOM · Responsive Design · Component Architecture · Animations |
+| **Backend** | Java · Spring Boot · Node.js · Express.js · REST APIs · JWT · Authentication · Authorization · Maven |
+| **Database** | MySQL · MongoDB · SQL · Mongoose · CRUD · Database Design · Relationships |
+| **AI / Data** | AI-assisted Development · OCR · TensorFlow · Keras · OpenCV · Python · AI Integration · Data Processing |
+| **Tools** | Git · GitHub · VS Code · Postman · Maven · NPM |
+| **Deployment** | GitHub Pages · Netlify |
+| **Engineering** | API Integration · Debugging · Deployment · UI/UX · Problem Solving |
 
 </div>
 
@@ -634,4 +591,4 @@ Collaboration
 <sub>Made with code, curiosity and continuous improvement.</sub>
 
 </div>
-```
+````
